@@ -1,3 +1,3 @@
-# My-first-mini-project-of-calculator
+# Nikhil Home Page
 Hi I am Nikhil
 I am a coder
